@@ -1,0 +1,1 @@
+SELECT tokl FROM vOkl46 WHERE id_men = 43 

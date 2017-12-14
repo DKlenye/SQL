@@ -1,0 +1,1 @@
+SELECT * FROM Vehicle WHERE DSC = 1 AND isnull(ColumnId,5)<>5 AND AccGroupId IS NULL AND WriteOffDate IS  null

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="tdbfScripts">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="db2:KDN\kdn">
+          <Created>2012-09-17T10:14:58.3125+03:00</Created>
+          <Type>SQL</Type>
+          <Server>db2</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="dbsrv2:KDN\kdn">
+          <Created>2012-09-12T08:55:02.140625+03:00</Created>
+          <Type>SQL</Type>
+          <Server>dbsrv2</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>transport_dbf_store</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Рассчёт топлива в кэш (старые путёвки).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbsrv2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbsrv2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Рассчёт топлива в кэш (старые путёвки).sql</FullPath>
+        </FileNode>
+        <FileNode Name="Непонятки Прикоты.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbsrv2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbsrv2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Непонятки Прикоты.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Расход топлива и пробег за август 2012.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbsrv2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbsrv2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Расход топлива и пробег за август 2012.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Инфа для Козельского по подраздел..sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbsrv2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbsrv2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Инфа для Козельского по подраздел..sql</FullPath>
+        </FileNode>
+        <FileNode Name="Задания в разрезе пачек.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbsrv2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbsrv2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Задания в разрезе пачек.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Подсобное рассчёт путёвок.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:dbsrv2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>dbsrv2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Подсобное рассчёт путёвок.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
